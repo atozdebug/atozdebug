@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @atozdebug
+- 👋 Hi, We are @atozdebug
 - 🌱 We are MERN/MEAN stack developers..
-- 📫 My contact me atozdebugofficial@gmail.com
+- 📫 Contact Us on atozdebugofficial@gmail.com
 
 
 <!---
