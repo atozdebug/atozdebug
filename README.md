@@ -1,7 +1,6 @@
 - 👋 Hi, We are @atozdebug
 - 🌱 We are MERN/MEAN stack developers..
-- 📫 Contact Us on atozdebugofficial@gmail.com
-
+- 📫 Contact Us on info@atozdebug.com
 
 <!---
 atozdebug/atozdebug is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
